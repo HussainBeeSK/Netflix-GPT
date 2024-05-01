@@ -1,8 +1,10 @@
 I would like to use tailwind css
 -configured it
 -Header
--login
+-login/sign in
 -sign up
+-Routing
+-Form Validation
 
 Planning:
 
